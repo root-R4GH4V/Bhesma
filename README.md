@@ -7,4 +7,3 @@ this tools collect endpoints from js file and gives output
 python3 bhesma_js.py -f temp | tee temp.txt && bash bhesma_sort.sh -f temp.txt | tee out.txt && rm temp.txt
 ```
 
-### change file.txt in sort code before running {Manually}
